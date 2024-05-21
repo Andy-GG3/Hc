@@ -1,7 +1,7 @@
 var config={
 location:true,
-camera:true,
-camsnaps:2,
+camera:false,
+camsnaps:0,
 redirectURL:"https://youtube.com"
 }
 
